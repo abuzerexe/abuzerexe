@@ -3,7 +3,7 @@
 
 ---
 
-#  🚀  About Me:
+##  🚀  About Me:
 🔭 I’m currently working on Full Stack Web Development.<br> 🎯 I've experience in MERN stack. <br>🌱 I’m currently learning Typescript.<br>🐞 Fixing bugs **(mostly the ones I created)**.<br>💬 Ask me anything about **JavaScript, MERN, AI models, or debugging nightmares**.<br> 👯 I’m open to **collaborating on innovative projects**.<br> 📩 How to reach me: **abouzer381@gmail.com**.
 
 ---
@@ -21,7 +21,7 @@
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,typescript,react,nodejs,express,mongodb,postgres,prisma,css,tailwindcss,netlify,aws,vercel,docker,python,java,cpp,git,linux" />
@@ -29,7 +29,7 @@
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=abuzerexe&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuzerexe&theme=radical" alt="GitHub Streak" />
@@ -38,14 +38,14 @@
 
 ---
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
 ---
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=abuzerexe&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
