@@ -4,7 +4,7 @@
 ---
 
 ##  🚀  About Me:
-🔭 I’m currently working on Full Stack Web Development.<br> 🎯 I've experience in MERN stack, java, c++ and python. <br>🌱 I’m currently learning Typescript.<br>🐞 I’m open to **collaborating on innovative projects**.<br> 📩 How to reach me: **abouzer381@gmail.com**.
+🔭 I’m currently working on Full Stack Web Development.<br> 🎯 I've experience in MERN stack, java, c++ and python. <br>🌱 I’m currently learning Nextjs.<br>🐞 I’m open to **collaborating on innovative projects**.<br> 📩 How to reach me: **abouzer381@gmail.com**.
 
 ---
 
