@@ -4,7 +4,7 @@
 ---
 
 ##  🚀  About Me:
-🔭 I’m currently working on Full Stack Web Development.<br> 🎯 I've experience in MERN stack, java, c++ and python. <br>🌱 I’m currently learning Nextjs.<br>🐞 I’m open to **collaborating on innovative projects**.<br> 📩 How to reach me: **abouzer381@gmail.com**.
+🔭 I’m currently working on Full Stack Web Development.<br> 🎯 I've experience in Nextjs, MERN, typescript. <br>🌱 I’m currently learning Web3.<br>🐞 I’m open to **collaborating on innovative projects**.<br> 📩 How to reach me: **abouzer381@gmail.com**.
 
 ---
 
@@ -24,7 +24,7 @@
 ## 💻 Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,typescript,react,nodejs,express,mongodb,postgres,prisma,css,tailwindcss,netlify,aws,vercel,docker,python,java,cpp,git,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,js,typescript,nextjs,react,nodejs,express,mongodb,postgres,prisma,css,tailwindcss,netlify,vercel,python,java,cpp,git,linux" />
 </p>
 
 ---
@@ -38,18 +38,5 @@
 
 ---
 
-## ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
----
-
-## 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=abuzerexe&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
-
----
 ## 🚀 Let's Build Something Cool Together!
 
