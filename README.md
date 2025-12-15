@@ -3,7 +3,7 @@
 ## Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,js,typescript,nextjs,react,nodejs,express,mongodb,postgres,prisma,tailwindcss,netlify,vercel,python,java,git,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,js,typescript,nextjs,react,nodejs,nest,express,fastapi,mongodb,postgres,prisma,tailwindcss,netlify,vercel,python,java,git,linux" />
 </p>
 
 
