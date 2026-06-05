@@ -13,7 +13,7 @@
 
 <p align="center"> 
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/abuzerexe?cardType=github&theme=github-dark&preferLogin=false" alt="Github Stats" /> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuzerexe&layout=compact&theme=radical&include_all_commits=true&count_private=true" alt="Top Languages" /> 
+   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuzerexe&layout=compact&theme=radical&include_all_commits=true&count_private=true" alt="Top Languages" />  -->
 
 </p>
 
